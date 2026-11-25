@@ -1,4 +1,10 @@
-﻿ Console.Write("Digite o nome do personagem: ");
+﻿using System;
+
+
+
+  
+    
+        Console.Write("Digite o nome do personagem: ");
         string nome = Console.ReadLine()!;
 
         int vida = 100;
